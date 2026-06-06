@@ -24,9 +24,9 @@
   "matrix_pwm_bits": 11,
   "matrix_rgb_sequence": "RGB",
   "matrix_disable_hardware_pulsing": false,
-  "matrix_fade_steps": 20,
-  "matrix_fade_delay": 0.03,
-  "matrix_end_fade_remaining_ms": 1500,
+  "matrix_fade_steps": 24,
+  "matrix_fade_delay": 0.035,
+  "matrix_end_fade_remaining_ms": 2500,
   "matrix_startup_test": false,
   "matrix_startup_test_seconds": 0.5
 }
